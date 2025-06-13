@@ -138,7 +138,7 @@ To enhance the SLAM accuracy and reliability, I integrated the Cartographer pack
 
 ## Demo Video
 
-Final Map Generated Video ([https://drive.google.com/your-shared-link](https://drive.google.com/file/d/17HE_GB1wYgHbF5wFgd2fsNIIPePF50jQ/view?usp=drive_link)).
+Final Map Generated Video ([Video](https://drive.google.com/file/d/17HE_GB1wYgHbF5wFgd2fsNIIPePF50jQ/view?usp=drive_link)).
 
 
 ## Conclusion
